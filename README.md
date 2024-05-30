@@ -27,7 +27,7 @@ For the host, the save file is modified as if he would play alone.
 In theory this should not cause any corruption, if it does, I apologize! Let me know if anything unexpected happens.
 
 # Disclaimer
-The mod uses a custom Statistics system which **can not be turned off yet**.
+The mod uses a custom Telemetry system which **can not be turned off yet**.
 I will add a opt-out before I completely release this mod.
 
 This statistic collects: SteamID, Steam Display Name, When you started a network session, when you closed a network session and the current version of the mod.
