@@ -4,13 +4,20 @@ A public test for my Supermarket Simulator Multiplayer Mod.
 Use the Issues tab to report any problems you found with the mod!
 
 My discord for questions and feedback: https://discord.gg/rtYbKZrpeY
+If you want to support me financially and get your name into the mods donator page, check out my itch:
+https://satypardus.itch.io/supermarket-simulator-multiplayer-mod
 
 # Known Issues
-- Cashiers are not synced yet, so they will not work as intended.
-- Restockers are not synced yet, so they will not work as intended.
-- Loans are not synced yet, so they will not work as intended.
-- Players have only a walking animation, nothing else.
-- Time is not synced. I believe it shouldn't matter, as day change and store open are syned... but if any issues pop up, let me know
+- Restockers are not fully synced and invisible on clients. The boxes they carry just float magically around.
+- Sounds are not properly synced, playing sounds sometimes when they shouldn't, and not when they should.
+- Customers have their "complaint" texts shown twice.
+- Bank loans are not synced and can be abused for infinite money.
+- Players can be pushed through walls when boxes are thrown at them.
+- When cashiers scan items, the computer doesn't show the products properly.
+- Checkout closing only works on the server side.
+- The mod uses a "mod checker", so host and client need the same mods. It will not show a proper error when a client connects and just fails to connect you.
+- Auto paid bills are not synced correctly, maybe.
+- There are no proper animations for the players.
 
 # How to install
 - Download https://www.nexusmods.com/supermarketsimulator/mods/9 and install it. Install instructions for the mod loader are on the Nexus page.
