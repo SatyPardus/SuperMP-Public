@@ -10,11 +10,9 @@ https://satypardus.itch.io/supermarket-simulator-multiplayer-mod
 # Known Issues
 - Restockers are not fully synced and invisible on clients. The boxes they carry just float magically around.
 - Sounds are not properly synced, playing sounds sometimes when they shouldn't, and not when they should.
-- Customers have their "complaint" texts shown twice.
 - Bank loans are not synced and can be abused for infinite money.
 - Players can be pushed through walls when boxes are thrown at them.
 - When cashiers scan items, the computer doesn't show the products properly.
-- Checkout closing only works on the server side.
 - The mod uses a "mod checker", so host and client need the same mods. It will not show a proper error when a client connects and just fails to connect you.
 - Auto paid bills are not synced correctly, maybe.
 - There are no proper animations for the players.
